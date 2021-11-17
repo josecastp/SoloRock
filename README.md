@@ -1,12 +1,3 @@
-app.post('/anadir', (req, res) => {
-    console.log(req.body);
-    res.send('Fotografía recibida!')
-})
-Objetiv: que al hacer el POST desde el formulario, el console.log muestre: el título, URL de la foto y fecha.
-
-Enlace demo:
-https://fototeca-jose-calderon.herokuapp.com/
-
 
 Enlace a imagenes:
 
