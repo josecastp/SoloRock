@@ -1,0 +1,35 @@
+.repetida{
+    background-color: rgba(211, 25, 25, 0.788);
+    color:white;
+    font-size:small;
+}
+.footer{
+    background-color: black;
+    color: rgb(205, 212, 194);
+    font-size: medium;
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   
+}
+.portada{
+    background-color: black;
+    color: rgb(205, 212, 194);
+    font-size: medium;
+    text-align: center;
+}
+.cuadradoColor{
+    height: 20px;
+    width: 120px;
+    border-radius: 6px;
+}
+header{
+    display: flexbox;
+    background-color: rgb(10, 22, 18);
+    color: red;
+    align-items: center;
+    height: 500 px;
+}
